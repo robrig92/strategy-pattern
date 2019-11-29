@@ -15,6 +15,6 @@ public class MarshallDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("Here just lying in the water");
+        System.out.println("Just lying in the water");
     }
 }
